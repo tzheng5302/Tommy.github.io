@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="style.css" charset="utf-8"/>
 <title>Professional Website Design</title>
 <div class="sidenav">
-  <a class="active" href="index.html">About Me</a>
+  <a class="active" href="AboutMePage.html">About Me</a>
   <a href="ResumeHTML.html">Resume</a>
 </div>
 <title>About Me</title>
